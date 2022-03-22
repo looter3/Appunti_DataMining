@@ -13,3 +13,9 @@
 
 # Esercitazione04 soluzioni esercizi matplot
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/looter3/Appunti_DataMining/blob/main/Esercitazione04/Soluz_esercizi_matplot.ipynb)
+
+## Esercitazione05 audit
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/looter3/Appunti_DataMining/blob/main/Esercitazione05/Audit_classification_easy.ipynb)
+
+## Esercitazione05 flow
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/looter3/Appunti_DataMining/blob/main/Esercitazione05/Flow_classificazione.pptx)
