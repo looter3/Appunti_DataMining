@@ -22,3 +22,6 @@
 
 ## Esercitazione 06
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/looter3/Appunti_DataMining/blob/main/Esercitazione06//1_Sonar.ipynb)
+
+##Esercitazione06 pipeline
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/looter3/Appunti_DataMining/blob/main/Esercitazione06//22_Intro_Pipeline.ipynb)
