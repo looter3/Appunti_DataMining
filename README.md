@@ -21,5 +21,4 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/looter3/Appunti_DataMining/blob/main/Esercitazione05/Flow_classificazione.pptx)
 
 ## Esercitazione 06
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/looter3/Appunti_DataMining/blob/main/Esercitazione06/
-1_Sonar.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/looter3/Appunti_DataMining/blob/main/Esercitazione06//1_Sonar.ipynb)
