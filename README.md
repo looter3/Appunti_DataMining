@@ -27,5 +27,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/looter3/Appunti_DataMining/blob/main/Esercitazione06//22_Intro_Pipeline.ipynb)
 
 ## Esercitazione06 titanic
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/looter3/Appunti_DataMining/blob/main/Esercitazione06//
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/looter3/Appunti_DataMining/blob/main/Esercitazione06/
 23_Titanic_Cross.ipynb)
